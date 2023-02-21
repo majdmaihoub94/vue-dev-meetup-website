@@ -1,0 +1,1 @@
+import{_,r as t,o as a,c,p,a as n,b as o}from"./index-39a7f924.js";const s=e=>(p("data-v-ebaf7731"),e=e(),n(),e),d={class:"card"},r=s(()=>o("h1",null,"home",-1)),l=s(()=>o("p",null," new home ",-1)),m=[r,l],h={__name:"Home",props:{msg:String},setup(e){return t(0),(i,u)=>(a(),c("div",d,m))}},v=_(h,[["__scopeId","data-v-ebaf7731"]]);export{v as default};
